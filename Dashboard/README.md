@@ -2,31 +2,16 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ## KPIs
-
 - Total Employees
 - Attrition Count
 - Attrition Rate
 - Average Monthly Income
 
-## Charts
-
-- Attrition by Department
-- Attrition by Gender
-- Attrition by Age Group
-
-## Interactive Features
-
-- Department Slicer
-- Gender Slicer
-- Job Role Slicer
-- Age Group Slicer
-
-## Tools
-
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers
+## Features
+- Interactive slicers
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
